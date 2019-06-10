@@ -10,3 +10,4 @@ We have tried to come up with a solution by using hashing to identify different 
 ### Challenge 2:
 Here we have build again a model using the famous Support Vector Machine(SVM) algorithm.Different attributes have been evaluated based on their correlation factors and then a model with an accuracy of 92% has been achieved.A permanent link to the notebook can been found at https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6954848893521581/1283534314062248/2558959897262863/latest.html
 
+![Test Image2](https://github.com/anaballe/EEFL_Hackathon_CCMS/blob/master/Final_Result_Faulty.png)
